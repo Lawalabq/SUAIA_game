@@ -1,7 +1,7 @@
 import queue
 
-from tracker import Tracker
-from  game import play_game  
+from .tracker import Tracker
+from  .game import play_game  
 
 
 
