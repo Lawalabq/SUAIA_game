@@ -21,9 +21,9 @@ https://docs.astral.sh/uv/getting-started/installation/
 ### 2. Clone the repository and run
 
 ```bash
-git clone <https://github.com/Lawalabq/SUAIA_game.git
+git clone https://github.com/Lawalabq/SUAIA_game.git
 cd SUAIA_game
-uv run python -m suaia_game
+uv run python suaia_game
 
 
 
